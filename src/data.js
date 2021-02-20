@@ -1,33 +1,34 @@
 const questions = [
   {
     id: 1,
-    title: 'Do I have to allow the use of cookies?',
+    title: 'What are his priorities?',
     info:
-      'Unicorn vinyl poutine brooklyn, next level direct trade iceland. Shaman copper mug church-key coloring book, whatever poutine normcore fixie cred kickstarter post-ironic street art.',
+      'To give his family a life worth living.  Encouraging not just his offspring to learn and experience what the world can offer, but his wife, his friends, and family',
   },
   {
     id: 2,
-    title: 'How do I change my My Page password?',
+    title: 'What is he passionate about?',
     info:
-      'Coloring book forage photo booth gentrify lumbersexual. Migas chillwave poutine synth shoreditch, enamel pin thundercats fashion axe roof party polaroid chartreuse.',
+      'Not one thing, but many things as learning is his passion.  He gravitates towards technology and its innovations, as the learning never ends.  Today he is most intrigued and interested in software front end, blockchain technology, and environmental impacts humans are having on this planet.',
   },
   {
     id: 3,
-    title: 'What is BankID?',
+    title:
+      'Is there something he does that many would find odd or interesting?',
     info:
-      'Enamel pin fam sustainable woke whatever venmo. Authentic asymmetrical put a bird on it, lumbersexual activated charcoal kinfolk banjo cred pickled sartorial.',
+      'He dislikes the unnecessary use of gas powered vehicles and walks 90% of the time for necessities such as groceries and recreational activities with his family. ',
   },
   {
     id: 4,
-    title: 'Whose birth number can I use?',
+    title: 'What does he consider himself good at?',
     info:
-      'Edison bulb direct trade gentrify beard lo-fi seitan sustainable roof party franzen occupy squid. Knausgaard cronut succulents, scenester readymade shabby chic lyft. Copper mug meh vegan gentrify.',
+      'An organizer of intellectuals progressing towards an objective.  Whether that is in sales by organizing relationships with parties involved in the deal or parents in a local community looking for friends their children can socialize with',
   },
   {
     id: 5,
-    title: 'When do I recieve a password ordered by letter?',
+    title: 'What does dedication look like to him?',
     info:
-      'Locavore franzen fashion axe live-edge neutra irony synth af tilde shabby chic man braid chillwave waistcoat copper mug messenger bag. Banjo snackwave blog, microdosing thundercats migas vaporware viral lo-fi seitan ',
+      'Continuing to pursue something even in the face of great risk.  Kind of like I have in draining savings to switch careers to software as well as become part of the startup community to transform a familiar industry.',
   },
 ]
 export default questions
