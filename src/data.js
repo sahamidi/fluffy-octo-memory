@@ -28,7 +28,7 @@ const questions = [
     id: 5,
     title: 'What does dedication look like to him?',
     info:
-      'Continuing to pursue something even in the face of great risk.  Kind of like I have in draining savings to switch careers to software as well as become part of the startup community to transform a familiar industry.',
+      'Continuing to pursue something even in the face of great risk.  Sort of like switching careers to software as well as become part of the startup community to transform a familiar industry.',
   },
 ]
 export default questions
