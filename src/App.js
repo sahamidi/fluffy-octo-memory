@@ -13,7 +13,8 @@ function App() {
             alt='picture of sal'
           ></img>
         </div>
-        <h3>Secrets About Sal!!</h3>
+        <h3 className='heading'>Secrets About Sal!!</h3>
+
         <section className='info'>
           {questions.map((question) => {
             return <SingleQuestion key={questions.id} {...question} />
