@@ -8,7 +8,7 @@ function App() {
       <div className='container'>
         <div>
           <img
-            src='https://media-exp1.licdn.com/dms/image/C4E03AQEX6327OrDS_Q/profile-displayphoto-shrink_200_200/0/1601655547631?e=1619654400&v=beta&t=XcjH4227x8rVZAJvGSibl7MvSDHfP-vonFFQM0Du8aw'
+            src='https://media-exp1.licdn.com/dms/image/C4E03AQEj315wHIvOdw/profile-displayphoto-shrink_200_200/0/1614282695548?e=1619654400&v=beta&t=_6KGzqzspT-Eeqd4fW0L7qQWX68jDadfnFk4HqxxwrU'
             className='img'
             alt='picture of sal'
           ></img>
