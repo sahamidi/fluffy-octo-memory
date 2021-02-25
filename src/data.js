@@ -3,7 +3,7 @@ const questions = [
     id: 1,
     title: 'What are his priorities?',
     info:
-      'To give his family a life worth living.  Encouraging not just his offspring to learn and experience what the world can offer, but his wife, his friends, and family',
+      'To give his family a life worth living.  Encouraging not just his offspring to learn and experience what the world can offer, but his wife, his friends, and family.',
   },
   {
     id: 2,
@@ -22,7 +22,7 @@ const questions = [
     id: 4,
     title: 'What does he consider himself good at?',
     info:
-      'An organizer of intellectuals progressing towards an objective.  Whether that is in sales by organizing relationships with parties involved in the deal or parents in a local community looking for friends their children can socialize with',
+      'An organizer of intellectuals progressing towards an objective.  Whether that is in sales by organizing relationships with parties involved in the deal or parents in a local community looking for friends their children can socialize with.',
   },
   {
     id: 5,
